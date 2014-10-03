@@ -1,0 +1,6 @@
+C:\Projects\ExchangeWCFService\bin\ExchangeWCFService.dll.config
+C:\Projects\ExchangeWCFService\bin\ExchangeWCFService.dll
+C:\Projects\ExchangeWCFService\bin\ExchangeWCFService.pdb
+C:\Projects\ExchangeWCFService\obj\Debug\ExchangeWCFService.dll
+C:\Projects\ExchangeWCFService\obj\Debug\ExchangeWCFService.pdb
+C:\Projects\ExchangeWCFService\obj\Debug\ExchangeWCFService.csprojResolveAssemblyReference.cache
